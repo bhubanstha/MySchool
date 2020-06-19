@@ -1,0 +1,8 @@
+D:\Dummy\MySchool\MySchool.Business\bin\Debug\netstandard2.1\MySchool.Business.deps.json
+D:\Dummy\MySchool\MySchool.Business\bin\Debug\netstandard2.1\MySchool.Business.dll
+D:\Dummy\MySchool\MySchool.Business\bin\Debug\netstandard2.1\MySchool.Business.pdb
+D:\Dummy\MySchool\MySchool.Business\obj\Debug\netstandard2.1\MySchool.Business.AssemblyInfoInputs.cache
+D:\Dummy\MySchool\MySchool.Business\obj\Debug\netstandard2.1\MySchool.Business.AssemblyInfo.cs
+D:\Dummy\MySchool\MySchool.Business\obj\Debug\netstandard2.1\MySchool.Business.dll
+D:\Dummy\MySchool\MySchool.Business\obj\Debug\netstandard2.1\MySchool.Business.pdb
+D:\Dummy\MySchool\MySchool.Business\obj\Debug\netstandard2.1\MySchool.Business.csprojAssemblyReference.cache

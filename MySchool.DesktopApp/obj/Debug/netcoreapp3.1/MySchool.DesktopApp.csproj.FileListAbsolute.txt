@@ -1,0 +1,17 @@
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.exe
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.deps.json
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.runtimeconfig.json
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.runtimeconfig.dev.json
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.dll
+D:\Dummy\MySchool\MySchool.DesktopApp\bin\Debug\netcoreapp3.1\MySchool.DesktopApp.pdb
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.csprojAssemblyReference.cache
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp_MarkupCompile.cache
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp_MarkupCompile.lref
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.g.resources
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.AssemblyInfoInputs.cache
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.AssemblyInfo.cs
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.dll
+D:\Dummy\MySchool\MySchool.DesktopApp\obj\Debug\netcoreapp3.1\MySchool.DesktopApp.pdb

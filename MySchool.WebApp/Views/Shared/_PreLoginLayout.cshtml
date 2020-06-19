@@ -1,0 +1,44 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>AdminLTE 3 | Log in</title>
+    <!-- Tell the browser to be responsive to screen width -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <environment include="Development,Staging">
+        <link href="~/lib/fontawesome-free/css/all.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="https://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css">
+        <link href="~/lib/icheck-bootstrap/icheck-bootstrap.css" rel="stylesheet" />
+        <link href="~/css/adminlte.min.css" rel="stylesheet" />
+        <link href="~/css/site.css" rel="stylesheet" asp-append-version="true" />
+        <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700" rel="stylesheet">
+
+
+    </environment>
+    <environment include="Production">
+
+    </environment>
+</head>
+<body class="hold-transition login-page">
+    @RenderBody()
+
+    <footer class="border-top footer text-muted">
+        <div class="container">
+            &copy; 2020 - MySchool.WebApp - <a asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
+        </div>
+    </footer>
+
+
+    <environment include="Development, Staging">
+        <script src="~/lib/jquery/jquery.js"></script>
+        <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+        <script src="~/js/adminlte.min.js"></script>
+    </environment>
+    <environment include="Production">
+
+    </environment>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>

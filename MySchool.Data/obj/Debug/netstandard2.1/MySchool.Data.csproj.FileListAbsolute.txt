@@ -1,0 +1,8 @@
+D:\Dummy\MySchool\MySchool.Data\bin\Debug\netstandard2.1\MySchool.Data.deps.json
+D:\Dummy\MySchool\MySchool.Data\bin\Debug\netstandard2.1\MySchool.Data.dll
+D:\Dummy\MySchool\MySchool.Data\bin\Debug\netstandard2.1\MySchool.Data.pdb
+D:\Dummy\MySchool\MySchool.Data\obj\Debug\netstandard2.1\MySchool.Data.csprojAssemblyReference.cache
+D:\Dummy\MySchool\MySchool.Data\obj\Debug\netstandard2.1\MySchool.Data.AssemblyInfoInputs.cache
+D:\Dummy\MySchool\MySchool.Data\obj\Debug\netstandard2.1\MySchool.Data.AssemblyInfo.cs
+D:\Dummy\MySchool\MySchool.Data\obj\Debug\netstandard2.1\MySchool.Data.dll
+D:\Dummy\MySchool\MySchool.Data\obj\Debug\netstandard2.1\MySchool.Data.pdb
